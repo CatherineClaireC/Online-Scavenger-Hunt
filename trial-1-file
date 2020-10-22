@@ -1,0 +1,4 @@
+var fun = function lang (1) {
+  dateformat.il8n = require ('./lang/'+1)
+  return true;
+}
